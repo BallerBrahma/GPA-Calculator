@@ -1,8 +1,0 @@
-public class CourseRequest {
-
-    private String grade;
-    private int credits;
-
-    // Getters and setters...
-
-}
