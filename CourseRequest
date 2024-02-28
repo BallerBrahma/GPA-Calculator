@@ -1,0 +1,19 @@
+public class CourseRequest {
+
+    private String grade;
+    private int credits;
+
+    public void setGrade(String grade){
+        this.grade = grade;
+    }
+    public void setCredits(int credits){
+        this.credits = credits;
+    }
+    public String getGrade(){
+        return grade;
+    }
+    public int getCredits(){
+        return credits;
+    }
+
+}
